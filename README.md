@@ -4,6 +4,6 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodimarchi&layout=compact&theme=gradient"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodimarchi&layout=compact&theme=radical"/>
 </div>
 

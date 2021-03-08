@@ -3,6 +3,6 @@
   <img height="200px" width="200px" src="pandaMinimalist.png"/>
 </div>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodimarchi&layout=compact)](https://github.com/leonardodimarchi?tab=repositories)
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodimarchi&layout=compact&theme=tokyonight"/>
+
+

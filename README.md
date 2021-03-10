@@ -10,7 +10,4 @@
 
 ---
 
-<div align="center">
-  
-</div>
 

@@ -1,12 +1,9 @@
-<div align="center">
- <h1>Welcome, this is my profile!</h1>
- <span font-size="14px">Visit: <a href="https://www.linkedin.com/in/leonardodimarchi/">Linkedin</a></span><br/>
-</div>
+ # Welcome to my profile!
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-leonardodimarchi-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardodimarchi/)
+[![Outlook Badge](https://img.shields.io/badge/leonardodimarchi@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:leonardodimarchi@outlook.com)  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodimarchi&layout=compact&theme=onedark&hide=C%23"/>
-</div>
+![Profile Status](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodimarchi&layout=compact&theme=onedark&hide=C%23)
 
----
 
 
